@@ -1,0 +1,23 @@
+h1, h2, h3, p, div, ul, li, a {
+    font-family: "Times New Roman", Times, serif; 
+  }
+
+p, div, ul, li, a {
+    font-family: "Times New Roman", Times, serif; font-size: 20px;
+  }
+
+img {
+    border-style: dotted; color: rgb(42, 121, 52);
+}
+
+h1, h2, h3 {
+    color:rgb(23, 107, 35) 
+  }
+
+p {
+    color:rgb(2, 56, 9)
+}
+
+h1, h2, p, div, ul, li, a, body, head, button {
+    background-color: rgb(178, 214, 187);
+}
