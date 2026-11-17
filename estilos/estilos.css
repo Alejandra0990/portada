@@ -20,4 +20,10 @@ p {
 
 h1, h2, p, div, ul, li, a, body, head, button {
     background-color: rgb(178, 214, 187);
+
+}
+
+.accordion {
+  --bs-accordion-bg: rgb(178, 214, 187);
+  --bs-accordion-active-bg: rgb(129, 172, 139);
 }
