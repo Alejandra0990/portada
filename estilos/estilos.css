@@ -1,4 +1,4 @@
-h1, h2, h3, p, div, ul, li, a {
+h1, h2, h3, p, div, ul, li, a, figcaption{
     font-family: "Times New Roman", Times, serif; 
   }
 
@@ -14,7 +14,7 @@ h1, h2, h3 {
     color:rgb(23, 107, 35) 
   }
 
-p {
+p, figcaption, li{
     color:rgb(2, 56, 9)
 }
 
